@@ -6,12 +6,11 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com PHP e MySQL
 
 
 🌱 Também estou estudando Typescript e Angular
 
-💬 Sou entusiasta no desenvolvimento Java para APIs
 
 </div>
 <div align="center">
