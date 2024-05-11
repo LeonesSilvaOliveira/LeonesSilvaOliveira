@@ -25,7 +25,7 @@
   <img align="center" alt="php" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
-  <img align="center" alt="c++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
+  <img align="center" alt="c++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg">
   <!-- <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
   
